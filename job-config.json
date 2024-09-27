@@ -1,9 +1,9 @@
 {
   "name": "CD pipeline",
-  "existing_cluster_id": "your_cluster_id",
+  "existing_cluster_id": "0925-092605-wpy6ufhx",
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
-    "notebook_path": "/Workspace/Users/your_username/your_notebook"
+    "notebook_path": "/Workspace/Users/santhoshkadithampalli2000@gmail.com/DevOpsBook"
   }
 }
